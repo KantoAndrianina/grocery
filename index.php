@@ -87,7 +87,7 @@ else {
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Product.php?categorie=noodles">
-							<img src="./image/product/noodles/n.jpg" class="home-prodlist-imgi">
+							<img src="./image/product/noodles/n.webp" class="home-prodlist-imgi">
 							</a>
 						</div>
 					</li>
