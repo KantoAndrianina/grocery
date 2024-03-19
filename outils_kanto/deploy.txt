@@ -1,0 +1,20 @@
+====
+projet S6 - Optimisation SEO
+=====
+Lien site
+---------
+...
+
+FTP
+---
+url: ftp.123mada.com
+user: projet-s4@123mada.com
+pwd : Q-F8-@y[RiI.
+
+
+DB : ALWAYSDATA
+----------------
+host : mysql-andrianina24.alwaysdata.net
+bdd : andrianina24_ebuybd
+user : 320578
+pwd : Andrianina2002!
